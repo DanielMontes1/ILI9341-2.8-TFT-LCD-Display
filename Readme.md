@@ -4,6 +4,8 @@ El chip controlador ILI9341 es una opción popular para pantallas TFT-LCD peque�
 
 ![Texto alternativo](Images/download.jpg)
 
+`Esto es una línea de código`
+
 `/*
   Simple "Hello World" for ILI9341 LCD
 
