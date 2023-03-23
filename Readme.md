@@ -5,16 +5,16 @@ El chip controlador ILI9341 es una opci√≥n popular para pantallas TFT-LCD peque√
 ![Texto alternativo](Images/download.jpg)
 
 
-`#include "SPI.h"
-#include "Adafruit_GFX.h"
-#include "Adafruit_ILI9341.h"
+`#include "SPI.h"`
+`#include "Adafruit_GFX.h"`
+`#include "Adafruit_ILI9341.h"`
 
-#define TFT_DC 9
-#define TFT_CS 10
-Adafruit_ILI9341 tft = Adafruit_ILI9341(TFT_CS, TFT_DC);
+`#define TFT_DC 9`
+`#define TFT_CS 10`
+`Adafruit_ILI9341 tft = Adafruit_ILI9341(TFT_CS, TFT_DC);`
 
-void setup() {
-  tft.begin();
+`void setup() {`
+ ` tft.begin();`
 
   tft.setCursor(26, 120);
   tft.setTextColor(ILI9341_RED);
