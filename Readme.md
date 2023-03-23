@@ -4,6 +4,8 @@ El chip controlador ILI9341 es una opci√≥n popular para pantallas TFT-LCD peque√
 
 ![Texto alternativo](Images/download.jpg)
 
+
+### Codigo ###
 ~~~
 #include "SPI.h"
 #include "Adafruit_GFX.h"
@@ -18,14 +20,12 @@ void setup() {
   tft.setCursor(26, 120);
   tft.setTextColor(ILI9341_RED);
   tft.setTextSize(3);
-  tft.println("Hello, TFT!");
+  tft.println("Hola Mundo");
 
   tft.setCursor(20, 160);
   tft.setTextColor(ILI9341_GREEN);
   tft.setTextSize(2);
-  tft.println("I can has colors?");
-
-  // Meme reference: https://english.stackexchange.com/questions/20356/origin-of-i-can-haz
+  tft.println("Texto Verde");
 }
 
 void loop() { }
