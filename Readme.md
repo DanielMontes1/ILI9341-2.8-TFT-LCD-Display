@@ -27,4 +27,4 @@ El chip controlador ILI9341 es una opción popular para pantallas TFT-LCD peque�
 
 En general, la pantalla TFT-LCD de 2,8' ILI9341 es un módulo de pantalla versátil y ampliamente utilizado que ofrece alto rendimiento y características avanzadas para muchas aplicaciones de pantalla integrada.
 
-[Display de Pantalla] ((https://wokwi.com/projects/308024602434470466))
+[Display de Pantalla] (https://wokwi.com/projects/308024602434470466)
