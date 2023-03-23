@@ -1,4 +1,4 @@
-***ILI9341 2.8" TFT-LCD display***
+#ILI9341 2.8" TFT-LCD display#
 
 La pantalla TFT-LCD de 2,8' ILI9341 es un módulo de pantalla pequeño y económico que utiliza el chip controlador ILI9341 para controlar una pantalla TFT LCD a color de 2,8 pulgadas (diagonal). Tiene una resolución de 320 x 240 píxeles y admite hasta 262K colores La pantalla se usa comúnmente en sistemas integrados y proyectos de bricolaje donde se requiere una pantalla pequeña y de bajo consumo.
 
